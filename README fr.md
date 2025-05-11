@@ -10,7 +10,7 @@ Instructions
 ============
 
 1 Créer le fichier
-  - Ouvrez le Bloc-notes, collez le code ci-dessus.
+  - Ouvrez le Bloc-notes, collez le code (ou récupérer directement le fichier)
   - Enregistrez en DateInOut.ahk.
 
 2 Lancer le script
